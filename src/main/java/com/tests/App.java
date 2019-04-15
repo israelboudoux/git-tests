@@ -29,4 +29,8 @@ public class App
     static class TesteDto implements Dto {}
     
     static class TesteImpl<T extends Dto> implements Teste<T> {}
+	
+	public void newMethod() {
+		// do something here...
+	}
 }
