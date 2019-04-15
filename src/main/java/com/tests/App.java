@@ -33,4 +33,6 @@ public class App
 	public void newMethod() {
 		// do something here...
 	}
+	
+	// test...
 }
